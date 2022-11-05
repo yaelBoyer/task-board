@@ -1,1 +1,1 @@
-# task-board
+Task Board Project -enables adding, deleting and presentation of tasks, in correlation with date and hour and the order of their listing  – through use of the following technologies:  Javascript, Bootstrap, Css, Html
